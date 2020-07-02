@@ -1,5 +1,5 @@
 # vue-slick
-
+功能超强的自由拖拽排序组件VueSlicksort
 ## Project setup
 ```
 npm install
